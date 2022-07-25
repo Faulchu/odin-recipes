@@ -1,0 +1,26 @@
+body {
+    background-color: blanchedalmond;
+    color: #555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.frontpagelist {
+    text-align: center;
+    list-style: none;
+}
+
+a:visited {
+    color: rgb(0, 0, 238)
+}
+
+.recipetease {
+    width: 500px;
+}
