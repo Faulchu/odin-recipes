@@ -1,2 +1,2 @@
 # odin-recipes
-A practice website made as I'm learning HTML and CSS
+A practice website in progress, as I'm learning HTML and CSS + other
